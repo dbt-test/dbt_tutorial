@@ -4,4 +4,4 @@ select
     order_date,
     status
 
-from dbt.jaffle_shop_orders
+from rdw_dbt.jaffle_shop_orders

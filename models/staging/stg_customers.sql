@@ -3,4 +3,4 @@ select
     first_name,
     last_name
 
-from dbt.jaffle_shop_customers
+from rdw_dbt.jaffle_shop_customers
